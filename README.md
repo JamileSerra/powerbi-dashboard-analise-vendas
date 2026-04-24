@@ -85,3 +85,78 @@ O relatório foi projetado com foco na usabilidade:
 ## 📌 Conclusão
 
 Este projeto demonstra a importância de unir análise de dados com design e experiência do usuário, tornando dashboards mais eficientes, intuitivos e estratégicos para tomada de decisão.
+
+---
+
+## ✨ Atualização — Parâmetros de Campo e Storytelling
+
+Nesta etapa do projeto, o relatório foi evoluído com a criação de uma nova página chamada **“Visão Geral de Desempenho”**, com foco em análise interativa e orientada ao usuário.
+
+O objetivo foi permitir maior flexibilidade na exploração dos dados, evitando a criação de múltiplos visuais fixos e melhorando a experiência de navegação.
+
+---
+
+## 🎯 O que foi adicionado
+
+- Parâmetro de **categoria** (Segment, Country, Product, Discount Band)  
+- Parâmetro de **métricas** (Total Sales, Total Profit, Total Units Sold, Total COGS)  
+- Gráfico de barras dinâmico (comparação por categoria)  
+- Gráfico de linha (evolução temporal da métrica)  
+- Nova página com foco em **storytelling e apresentação ao cliente**
+
+---
+
+## 🧠 Justificativa dos parâmetros
+
+### 🔹 Categorias
+
+Permitem analisar o desempenho sob diferentes perspectivas:
+
+- **Segment** → tipo de cliente  
+- **Country** → análise geográfica  
+- **Product** → desempenho por produto  
+- **Discount Band** → impacto dos descontos  
+
+👉 Possibilita responder perguntas como:
+- Quais regiões performam melhor?
+- Quais produtos geram mais resultado?
+- Como os descontos influenciam os resultados?
+
+---
+
+### 🔹 Métricas
+
+Permitem alternar entre indicadores-chave:
+
+- **Total Sales** → volume de vendas  
+- **Total Profit** → lucratividade  
+- **Total Units Sold** → volume vendido  
+- **Total COGS** → custos  
+
+👉 Permite identificar:
+- Crescimento de vendas vs lucro  
+- Impacto dos custos  
+- Relação entre volume e rentabilidade  
+
+---
+
+## 📊 Estrutura da nova página
+
+A página foi organizada com foco em análise:
+
+1. Filtros interativos (parâmetros)  
+2. Gráfico principal (comparação por categoria)  
+3. Gráfico secundário (evolução temporal)  
+
+---
+
+## 🚀 Resultado
+
+A implementação dos parâmetros tornou o dashboard mais:
+
+- Interativo  
+- Flexível  
+- Escalável  
+- Focado na experiência do usuário  
+
+Permitindo análises dinâmicas sem necessidade de múltiplos visuais redundantes.
